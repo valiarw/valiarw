@@ -5,19 +5,19 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on PT Hsk Jepara
+- I am currently is a student in Universitas Terbuka
 - 🌱 I’m currently learning Github
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 💬 Ask me about my studies
+- 📫 How to reach me: you can contact me.
+- 😄 Pronouns: Valia
 - ⚡ Fun fact: ...
 -->
 
 Perkenalkan nama saya **Valia Rismawanti**.
 
-Saya seorang **Operator Produksi** di [PT HSK Jepara](https://www.hskj.com/).
+Saya seorang **Mahasiswa** di [Universitas Terbuka](https://www.ut.ac.id/).
 
-Saya bertanggung jawab pada proses produksi.
+Jurusan Matematika. Sekarang menjadi Chort di Bangkit 2024
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/valiarismawanti/)ku ya.
 
