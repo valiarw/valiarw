@@ -17,7 +17,7 @@ Perkenalkan nama saya **Valia Rismawanti**.
 
 Saya seorang **Mahasiswa** di [Universitas Terbuka](https://www.ut.ac.id/).
 
-Jurusan Matematika. Sekarang menjadi Chort di Bangkit 2024
+Jurusan Matematika. Sekarang saya menjadi Cohort di Bangkit 2024 batch 2.
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/valiarismawanti/)ku ya.
 
@@ -32,5 +32,6 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](http
 
 ### Reach me on
 - <a href="https://linkedin.com/in/valiarismawanti/">LinkedIn</a>
-- valiarw1300@gmail.com
-- <a href="https://twitter/valiarw">Twitter</a>
+- <a href="https://x.com/valiarw">Twitter</a>
+- <a href="https://instagram.com/valiarw">Instagram</a>
+- <a href="https://gmail.com/">valiarw1300@gmail.com</a>
